@@ -1,0 +1,14 @@
+# Credenciales de la base de datos
+config/server.php
+
+# Directorio de la base de datos y logs
+DB/
+payment_debug.log
+venta_requests.log
+
+# Archivos de configuración de servidor
+.htaccess
+
+# Carpetas de imágenes de usuario y producto
+app/views/fotos/
+app/views/productos/
